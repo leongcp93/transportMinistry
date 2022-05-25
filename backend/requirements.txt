@@ -67,7 +67,7 @@ prometheus-client==0.3.1
 prompt-toolkit==1.0.15
 pycparser==2.19
 Pygments==2.2.0
-PyJWT==1.6.4
+PyJWT==2.4.0
 pyparsing==2.2.0
 python-dateutil==2.7.3
 pytz==2018.5
